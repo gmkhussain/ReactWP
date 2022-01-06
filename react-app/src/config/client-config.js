@@ -1,5 +1,5 @@
 const clientConfig = {
-	rootUrl: 'http://localhost/projects/_rd/wp-api/wordpress'
+	ROOT_URL: 'http://localhost/projects/_rd/wp-api/wordpress'
 };
 
 export default clientConfig;
